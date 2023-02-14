@@ -1,9 +1,18 @@
 # Password Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+## Description
+This module we were tasked with creating a password generator that would respond within the parameters you determine though window alerts. You have the choice to include lowercase, uppercase, special and numeric characters all randomly generated to the legnth in which you initially specify. This helps us develop in our future careers by utilizing different parts of JavaScript that require user input including the ```addEventListener``` and ```onClick``` command
+## Table of Contents
+- [Built with](#built-with)
+- [License](#license)
 
-In this module we did lots with JavaScript. It was very confusing at first and took me hours to complete. For some reason my GitHub pages is not working so unfortunately when I saved main and root no url came up for me to copy. However, although I was able to get all the code done and working there were lots of new things I picked up, different variations of for loops along with the addeventlisteners were the things I improved on the most, I am still struggling trying to make sense of all the elements and objects. I do have a feeling it will get easier when I see it more and more though. I have followed most the directions given in the read me the only thing that I could see damaging my grade would be the github pages url not being inside of this, the readme. Other than that it was a useful module that taught me just how much basic javascript can do for web developers.
-
-
-
-
-
+## Built with
+This password generator was built using 
+- JavaScript
+- HTML
+- CSS
+## License 
+This repo uses the MIT license
 ![2022-10-04](https://user-images.githubusercontent.com/113151411/193744661-60ede0fe-3ed1-47b7-af12-323c95a9ebd5.png)
+
+link to page 
