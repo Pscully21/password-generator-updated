@@ -15,4 +15,5 @@ This password generator was built using
 This repo uses the MIT license
 ![2022-10-04](https://user-images.githubusercontent.com/113151411/193744661-60ede0fe-3ed1-47b7-af12-323c95a9ebd5.png)
 
-link to page 
+link to pages
+https://pscully21.github.io/password-generator-updated/
